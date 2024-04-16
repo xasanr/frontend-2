@@ -1,5 +1,14 @@
 h1 {
-color: #b34545;
+ display: inline;   
 background-color: blue;
 }
 
+p{
+background-color: aqua;
+
+}
+
+strong{
+background-color: brown;
+
+}
