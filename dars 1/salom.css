@@ -2,10 +2,15 @@ div{
     display: inline-block;
 width: 50%;
 height: 200px;
-background-color: rgb(255, 0, 0);
-border: width 3px; 
-border-style:- dashed;
-border-color: black;
+background-image: url("https:\\picsum.photos\\100022");
+background-position: center;
+background-repeat: repeat-x;
+
+
+border: 5px solid rgb(204, 32, 32)
+
+
+
 
 
 
