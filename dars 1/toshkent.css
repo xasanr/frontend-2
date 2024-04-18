@@ -2,27 +2,35 @@
     max-width: 100px;
 }
 
-.main {
 
-margin: top 30px; ;
+.container{
+width: 1140px;
+margin: 0 auto;
+border: 1px solid black;
 
-}
-
-
-.title {
-    color: rgb(255, 0, 0);
-text-align: center;
-font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
-.plns-list{
-margin-top: 20px;
-     
-}
-.plans-item{
-    display: inline-block;
-    border: 1px solid black;
-width: 35.5%;
-margin-left: auto;
+
+
+nav .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
 
 }
+.nav_logo{
+
+width: 500px;
+display: inline-block;
+margin: right 40%; ;
+width: 500px;
+}
+ .nav_item{
+display: inline-block;
+
+
+
+
+ }
+
