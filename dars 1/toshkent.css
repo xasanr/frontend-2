@@ -1,9 +1,28 @@
-.title{
-color: rgb(226, 43, 98);
-font-size: 30px;
-font: weight 100px; ;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+.img{
+    max-width: 100px;
+}
+
+.main {
+
+margin: top 30px; ;
 
 }
 
-    
+
+.title {
+    color: rgb(255, 0, 0);
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.plns-list{
+margin-top: 20px;
+     
+}
+.plans-item{
+    display: inline-block;
+    border: 1px solid black;
+width: 35.5%;
+margin-left: auto;
+
+}
