@@ -23,11 +23,25 @@ nav .container{
 
 width: 500px;
 display: inline-block;
+flex-direction: column;
+justify-content: space-between ;
 margin: right 40%; ;
 width: 500px;
 }
  .nav_item{
 display: inline-block;
+ }
+ .nav_item{
+    padding: 15px;
+ }
+
+.nav_link{
+    text-decoration: none;
+}
+
+
+
+ 
 
 
 
