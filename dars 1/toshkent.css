@@ -1,50 +1,9 @@
-.img{
-    max-width: 100px;
+.box{
+    background-color: rgb(1, 1, 10);
+    width: 300px;
+    height: 300px;
+transition: background-color 0.3s;
 }
-
-
-.container{
-width: 1140px;
-margin: 0 auto;
-border: 1px solid black;
-
-
+.box:active {
+    background-color: rgb(255, 0, 140);
 }
-
-
-nav .container{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
-
-}
-.nav_logo{
-
-width: 500px;
-display: inline-block;
-flex-direction: column;
-justify-content: space-between ;
-margin: right 40%; ;
-width: 500px;
-}
- .nav_item{
-display: inline-block;
- }
- .nav_item{
-    padding: 15px;
- }
-
-.nav_link{
-    text-decoration: none;
-}
-
-
-
- 
-
-
-
-
- }
-
