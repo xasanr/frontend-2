@@ -1,9 +1,10 @@
 .box{
-    background-color: rgb(1, 1, 10);
+    background-color: rgb(76, 76, 182);
     width: 300px;
     height: 300px;
 transition: background-color 0.3s;
 }
-.box:active {
+.box:focus{
     background-color: rgb(255, 0, 140);
+
 }
